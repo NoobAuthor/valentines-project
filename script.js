@@ -36,14 +36,14 @@ const translations = {
     thanks: "¡Gracias por ser mi San Valentín! 💖😊",
     gifs: {
       initial:
-        "https://cdnl.iconscout.com/lottie/premium/thumb/cute-cat-9685696-7933396.gif", // Cat in vase with flowers :cite[9]
+        "https://cdnl.iconscout.com/lottie/premium/thumb/cute-cat-9685696-7933396.gif",
       celebration:
         "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWIzY3dqYmg1aml6dmhzMnliM2x3azBybnpiOTJhY3loNzdydDBzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kPryNRkt1ryfnpn59G/giphy.gif", // Dancing cats with hearts :cite[3]
       rejections: [
-        "https://gifdb.com/images/high/freaked-out-sad-cat-sobbing-x81xcmvrn4yyk9j9.gif", // Pleading cat eyes :cite[5]
-        "https://media.tenor.com/1WEZeMbbHwMAAAAM/cat-depressed.gif", // Unsure cat tilt :cite[8]
-        "https://media.tenor.com/K2V8Zbx5ezgAAAAC/cute-so.gif", // Heartbroken Pusheen :cite[5]
-        "https://gifdb.com/images/high/cute-sad-peach-cat-on-floor-ctnvwnkm9ip6dnug.gif", // Resigned cat with card :cite[10]
+        "https://gifdb.com/images/high/freaked-out-sad-cat-sobbing-x81xcmvrn4yyk9j9.gif",
+        "https://media.tenor.com/1WEZeMbbHwMAAAAM/cat-depressed.gif",
+        "https://media.tenor.com/K2V8Zbx5ezgAAAAC/cute-so.gif",
+        "https://gifdb.com/images/high/cute-sad-peach-cat-on-floor-ctnvwnkm9ip6dnug.gif",
       ],
     },
   },

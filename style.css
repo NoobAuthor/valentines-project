@@ -69,20 +69,6 @@ button:hover {
   min-height: 30px;
 }
 
-/* .valentine-gif { */
-/*   max-width: 300px; */
-/*   margin: 20px auto; */
-/*   border-radius: 15px; */
-/*   box-shadow: 0 0 15px rgba(255, 51, 133, 0.3); */
-/* } */
-/**/
-/* /* Thanks page specific */
-*/
-/* .celebration-gif { */
-/*   max-width: 400px; */
-/*   margin: 30px auto; */
-/* } */
-
 .valentine-gif,
 .celebration-gif {
   background: #fff3f9;
