@@ -1,0 +1,92 @@
+/* General styles */
+body {
+  background-color: #ffe6f2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  font-family: "Arial", sans-serif;
+}
+
+#translateBtn {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 5px 10px;
+  background-color: #ffffff;
+  border: 1px solid #ff3385;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.8em;
+  color: #ff3385;
+}
+
+.container {
+  text-align: center;
+}
+
+/* Valentine page specific */
+h1 {
+  color: #ff3385;
+  margin-bottom: 30px;
+}
+
+.buttons {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+button {
+  padding: 15px 30px;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+#yesButton {
+  background-color: #4caf50;
+  color: white;
+}
+
+#noButton {
+  background-color: #ff3333;
+  color: white;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
+
+#message {
+  color: #ff3385;
+  margin-top: 20px;
+  font-size: 1.2em;
+  min-height: 30px;
+}
+
+/* .valentine-gif { */
+/*   max-width: 300px; */
+/*   margin: 20px auto; */
+/*   border-radius: 15px; */
+/*   box-shadow: 0 0 15px rgba(255, 51, 133, 0.3); */
+/* } */
+/**/
+/* /* Thanks page specific */
+*/
+/* .celebration-gif { */
+/*   max-width: 400px; */
+/*   margin: 30px auto; */
+/* } */
+
+.valentine-gif,
+.celebration-gif {
+  background: #fff3f9;
+  min-height: 200px;
+  display: flex;
+  justify-content: center;
+}
